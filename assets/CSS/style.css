@@ -21,8 +21,9 @@ h2 {
 }
 .logo {
     width: 100%;
-    max-width: 250px;
+    max-width: 230px;
     height: auto;
+    margin-top: 22px;
 }
 .form-control {
     margin: 3px;
