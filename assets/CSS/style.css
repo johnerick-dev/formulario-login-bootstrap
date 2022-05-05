@@ -1,0 +1,37 @@
+body {
+    background-color: #EEEEEE ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+h2 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.area {
+    width: 100%;
+    max-width: 350px;
+    height: 580px;
+    text-align: center;
+    padding: 10px;
+    border: 1px solid #999999;
+    border-radius: 5px;
+    box-shadow: 2px 3px 10px rgb(20, 20, 20);  
+}
+.logo {
+    width: 100%;
+    max-width: 250px;
+    height: auto;
+}
+.form-control {
+    margin: 3px;
+}
+.remember {
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+.gray {
+    color: #999999;
+    padding: 15px;
+}
